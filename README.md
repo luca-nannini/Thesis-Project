@@ -40,3 +40,5 @@ MA Cog Sem Research Project - Luca Nannini
   * LDA heatmap 
   * LDAvis 
   * LDA wordclouds
+
+<img src="rhttps://github.com/luca-nannini/Thesis-Project/blob/master/Tweets%20FastText%20Word%20Embedding.pngesources/logo.png" alt="Logo">

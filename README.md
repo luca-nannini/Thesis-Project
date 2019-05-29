@@ -41,4 +41,4 @@ MA Cog Sem Research Project - Luca Nannini
   * LDAvis 
   * LDA wordclouds
 
-<img src="rhttps://github.com/luca-nannini/Thesis-Project/blob/master/Tweets%20FastText%20Word%20Embedding.pngesources/logo.png" alt="Logo">
+![alt text](https://github.com/luca-nannini/Thesis-Project/blob/master/t-SNE%20cluster%20of%20Debate%20LDA%205%20topics.png "Logo Title Text 1")

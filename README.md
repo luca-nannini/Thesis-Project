@@ -40,5 +40,3 @@ MA Cog Sem Research Project - Luca Nannini
   * LDA heatmap 
   * LDAvis 
   * LDA wordclouds
-
-![alt text](https://github.com/luca-nannini/Thesis-Project/blob/master/t-SNE%20cluster%20of%20Debate%20LDA%205%20topics.png "Logo Title Text 1")

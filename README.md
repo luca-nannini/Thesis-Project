@@ -36,7 +36,10 @@ MA Cog Sem Research Project - Luca Nannini
   * IV° segment, "Securing America"
   * V° segment, "Mutual & Election Acceptance"
 * Overall topic analysis visualization
-  * LDA, histograms and FastText word embeddings
+  * LDA analysis
+  * Histogram of mass scale attention in tweet volume
+  * FastText word embeddings
   * LDA heatmap 
   * LDAvis 
   * LDA wordclouds
+  * LDA word weight barcharts 
